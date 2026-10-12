@@ -72,4 +72,4 @@ Mahammed Nauman Chudgar
 
 A project inspired by the beauty, culture, and memories of Modasa, Gujarat.
 
-## ⭐ Explore Modasa. Experience its charm. Create memories that last forever!
+⭐ Explore Modasa. Experience its charm. Create memories that last forever!
