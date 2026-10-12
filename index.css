@@ -1,0 +1,74 @@
+.images {
+    width: 220px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.img-guide{
+    width: 200px;
+    border-radius: 20px;
+}
+
+body {
+    background: linear-gradient(#e63946, #f1faee, #a8dadc, #457b9d, #1d3557);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    text-shadow: 0 0 5px black;
+}
+
+.hero-section {
+    text-align: center;
+    padding: 60px;
+    border: 5px solid white;
+    border-radius: 20px;
+    background-image: url(images/Sunset\ Over\ a\ Lakeside\ Town.png);
+    background-size: 100%;
+}
+
+
+.items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: none;
+}
+
+.items-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid white;
+    border-radius: 20px;
+    padding-bottom: 20px;
+}
+
+.items-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+    border: 5px solid white;
+    border-radius: 20px;
+    padding-bottom: 50px;
+}
+
+.img-css {
+    display: flex;
+    gap: 20px;
+}
+
+.img-css-1 {
+    display: flex;
+    gap: 40px;
+}
+
+.mar{
+    margin-top: 100px;
+}
