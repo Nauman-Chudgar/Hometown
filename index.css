@@ -29,7 +29,7 @@ body {
     border: 5px solid white;
     border-radius: 20px;
     background-image: url(images/Sunset\ Over\ a\ Lakeside\ Town.png);
-    background-size: 100%;
+    background-size: cover;
 }
 
 
